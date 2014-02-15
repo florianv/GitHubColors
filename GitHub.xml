@@ -214,7 +214,8 @@
         </option>
         <option name="CSS.IDENT">
             <value>
-                <option name="FOREGROUND" value="333333"/>
+                <option name="FOREGROUND" value="445588"/>
+                <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
         <option name="CSS.IMPORTANT">
