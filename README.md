@@ -16,9 +16,6 @@ PHPStorm color theme in GitHub's style.
 ### Yaml
 ![Yaml](/demo/yaml.png)
 
-### XML
-![XML](/demo/xml.png)
-
 ### Markdown
 ![Markdown](/demo/markdown.png)
 
